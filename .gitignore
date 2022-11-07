@@ -1,2 +1,3 @@
-test*
-.env/
+.idea
+__pycache__
+.env
